@@ -13,12 +13,6 @@ The purpose of this exercise is to assess your:
 
 We are not looking for a brute force implementation, but a solution that demonstrates your understanding of the problem statement and data model in tandem with the points above
 
-When you are ready to submit your assessment, please email the team to let us know:
-
-- nasimi.mamedov@measmerize.com
-
-## Programming Languages
-
 Please implement your solution in your preferred language from the below:
 
 - JavaScript
@@ -88,7 +82,3 @@ The above node has a `nodeId` of "4". The `parentId` property of `"6"` instructs
 Your solution will be tested against varying valid inputs.
 
 JSON schemas for both the input and output have been provided if required.
-
-## Good luck
-
-And don't forget to notify nasimi.mamedov@measmerize.com once you're done!
